@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(229, 220, 220);
+} 
+.bold{
+    font-size: 40px;
+}
+h2{
+    font-size: medium;
+}
+.key{
+    color: #24f30d;
+    font-size: 20px;
+    font-style: italic;
+
+}
+.copa{
+    font-weight: bold;
+    font-size: 30px;
+}
+.out{
+    font-family: sans-serif;
+    
+}
